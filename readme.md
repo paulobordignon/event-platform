@@ -1,7 +1,7 @@
 <p align="center">
 
   <a href="https://event-platform-liard-eight.vercel.app/" target="_blank">
-    <img alt="event-platform-logo" height="70" alt="Event Platform Logo" src="src/assets/logo.png"/>
+    <img alt="event-platform-logo" alt="Event Platform Logo" src="src/assets/logo.png"/>
   </a>
 </p>
 
